@@ -1,4 +1,4 @@
-package _4LongestPalindromicSubstring
+package _5LongestPalindromicSubstring
 
 import "testing"
 

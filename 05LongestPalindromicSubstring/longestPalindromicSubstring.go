@@ -1,4 +1,4 @@
-package _4LongestPalindromicSubstring
+package _5LongestPalindromicSubstring
 
 func LongestPalindromicSubstring(str string) string {
 	if len(str) == 0 {
